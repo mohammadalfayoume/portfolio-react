@@ -40,6 +40,11 @@
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
+        },
+        {
+          "name": "ReactJs",
+          "class": "devicon-react-plain",
+          "level": "85"
         }
         
         
